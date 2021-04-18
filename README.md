@@ -2,15 +2,12 @@
 Hey, I'm Nikhil <br/>
 <sub>ML, Game Dev, Designer</sub>
 ---
-
 <br/>
 
 ## Who Am I?
 
 I'm a Software Engineer and Student.
 Learning about everything software and hardware engineering through self-driven projects and endless research.
-
-<br/>
 
 ## What I've Built
 
@@ -25,7 +22,6 @@ A PWA that can be used to check safety levels using threshold levels for gas con
 Also saves the data on Firebase for viewing of historical data.
 
 Find more on my [website](https://silhub.web.app/).
-
 <br/>
 
 ## Socials
