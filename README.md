@@ -1,5 +1,5 @@
 ![Hi](HI.png)
-# Hey, I'm Nikhil 👋
+# Hi, I'm Nikhil 👋
 
 ## Who Am I?
 
