@@ -37,17 +37,11 @@ Also saves the data on Firebase for viewing of historical data.
 <br />
 
 ---
-<img align="left" alt="Nikhil Nair Github Stats" src="https://github-readme-stats.vercel.app/api?username=nikhilnair31&show_icons=true&hide_border=true&hide=stars,contribs&theme=radical" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilnair31)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilnair31&hide=stars,prs,issues,contribs&theme=omni )
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilnair31)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikhilnair31)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 
