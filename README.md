@@ -1,8 +1,7 @@
-Nikhil Nair<br/>
+Nikhil Nair <div align = 'right'>![](https://komarev.com/ghpvc/?username=nikhilnair31&color=red)</div>
+<br/>
 <sub>Software Engineer</sub>
 ---
-
-[![Website](https://img.shields.io/website?label=DylanSmith&style=for-the-badge&url=https%3A%2F%2Fdylansmith.vercel.app)](https://silhub.web.app/)
 
 ### Who Am I?
 
@@ -13,13 +12,17 @@ Learning about everything software and hardware engineering through self-driven 
 
 Find my portfolio and more on my [website](https://silhub.web.app/).
 
-### Learn About Me
+### What I've Built
 
-### What I'm Building
+[ML Text Scraper](https://ml-text-scraper.herokuapp.com/)
+The website uses an ML model with Selenium to scrape text off of article sites.
 
-My newest app: [Waygo](https://waygo.vercel.app), register for free - open to ideas for new features.
+[tasks.ai](https://play.google.com/store/apps/details?id=com.appnamenull.mlscheduler)
+This a tasks and reminders app that uses a user's phone usage data to forecast the best time to remind them.
 
-Deep learning GAN models: [Face generation and animation with Python](https://github.com/e-Dylan/gan_faceanimator).
+[Mine Safety PWA](https://play.google.com/store/apps/details?id=com.Sil.minepwa1)
+A PWA that can be used to check safety levels using threshold levels for gas concentrations, noise levels and gas ratios for spontaneous combustion.
+Also saves the data on Firebase for viewing of historical data.
 
 ### Socials
 
@@ -29,6 +32,7 @@ Deep learning GAN models: [Face generation and animation with Python](https://gi
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Google Play" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleplay.svg" />][playstore]
 [<img align="left" alt="itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/itch-dot-io.svg" />][itch.io]
+[<img align="left" alt="itch.io" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
 
