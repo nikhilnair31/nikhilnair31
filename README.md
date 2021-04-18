@@ -23,7 +23,7 @@ Find more on my [website](https://silhub.web.app/).
 
 ## Socials
 
-[<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg">][website]
+[<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=appveyor&logoColor=white&color=teal">][website]
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">][twitter]
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">][instagram]
