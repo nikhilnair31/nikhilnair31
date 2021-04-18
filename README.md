@@ -23,6 +23,8 @@ This a tasks and reminders app that uses a user's phone usage data to forecast t
 A PWA that can be used to check safety levels using threshold levels for gas concentrations, noise levels and gas ratios for spontaneous combustion.
 Also saves the data on Firebase for viewing of historical data.
 
+---
+
 ### Socials
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -38,7 +40,7 @@ Also saves the data on Firebase for viewing of historical data.
 
 ---
 
-## Stats
+### Stats
 
 <br />
 
