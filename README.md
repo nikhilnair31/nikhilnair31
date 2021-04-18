@@ -1,10 +1,10 @@
 ![Hi](HI.png)
-# Hey, I'm Nikhil
+# Hi, I'm Nikhil 👋
 
 ## Who Am I?
 
-I'm a Software Engineer and Student.
-Learning about everything software and hardware engineering through self-driven projects and endless research.
+I'm a Mining Engineer that picked up some coding skills over the course of my college life.
+I've learnt everything about various fields within software like game development, machine learning, web development etc. through multiple self-driven projects and endless research.
 
 ## What I've Built
 
