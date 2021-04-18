@@ -1,8 +1,6 @@
 
 Hey, I'm Nikhil <br/>
 <sub>ML, Game Dev, Designer</sub>
----
-<br/>
 
 ## Who Am I?
 
@@ -33,17 +31,11 @@ Find more on my [website](https://silhub.web.app/).
 [<img align="left" alt="Google Play" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleplay.svg" />][playstore]
 [<img align="left" alt="itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/itch-dot-io.svg" />][itch.io]
 
-<br/>
-
 ## Stats
-
-<br />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilnair31&hide=stars,prs,issues,contribs&theme=omni&hide_border=true )
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikhilnair31&layout=compact&theme=omni&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
 
 ## Languages and Tools:
 
