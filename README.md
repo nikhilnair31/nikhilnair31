@@ -23,9 +23,8 @@ This a tasks and reminders app that uses a user's phone usage data to forecast t
 A PWA that can be used to check safety levels using threshold levels for gas concentrations, noise levels and gas ratios for spontaneous combustion.
 Also saves the data on Firebase for viewing of historical data.
 
----
-
 ### Socials
+---
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -36,9 +35,8 @@ Also saves the data on Firebase for viewing of historical data.
 
 <br />
 
----
-
 ### Stats
+---
 
 <br />
 
@@ -47,8 +45,8 @@ Also saves the data on Firebase for viewing of historical data.
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikhilnair31&layout=compact&theme=omni&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
----
 ### Languages and Tools:
+---
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
