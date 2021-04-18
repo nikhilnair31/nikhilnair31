@@ -1,21 +1,17 @@
-Nikhil Nair 👋<br/>
+Nikhil Nair<br/>
 <sub>Software Engineer</sub>
 ---
-<a href="https://dylansmith.vercel.app/">
-    <img src="https://github.com/e-Dylan/personal-website/blob/master/demo/website-logo.gif" alt="Website Logo" align="right" title="Logo" height="200" width="300" />
-</a>
 
 [![Website](https://img.shields.io/website?label=DylanSmith&style=for-the-badge&url=https%3A%2F%2Fdylansmith.vercel.app)](https://silhub.web.app/)
 
+### Who Am I?
 
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
-
-<!-- ## I'm a Software Engineer and Student.
-Learning about everything software and hardware engineering through self-driven projects and endless research. -->
+I'm a Software Engineer and Student.
+Learning about everything software and hardware engineering through self-driven projects and endless research.
 
 ### Portfolio
 
-Find my portfolio and much more about me on my [website](https://silhub.web.app/).
+Find my portfolio and more on my [website](https://silhub.web.app/).
 
 ### Learn About Me
 
@@ -25,19 +21,19 @@ My newest app: [Waygo](https://waygo.vercel.app), register for free - open to id
 
 Deep learning GAN models: [Face generation and animation with Python](https://github.com/e-Dylan/gan_faceanimator).
 
-### Connect with me:
+### Socials
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt=" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Google Play" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleplay.svg" />][playstore]
+[<img align="left" alt="itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/itch-dot-io.svg" />][itch.io]
 
 <br />
 
 ---
-<img align="left" alt="e-Dylan Github Stats" src="https://github-readme-stats.vercel.app/api?username=e-Dylan&show_icons=true&hide_border=true&hide=stars,contribs&theme=radical" />
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-Dylan)](https://github.com/anuraghazra/github-readme-stats) -->
+<img align="left" alt="Nikhil Nair Github Stats" src="https://github-readme-stats.vercel.app/api?username=nikhilnair31&show_icons=true&hide_border=true&hide=stars,contribs&theme=radical" />
 
 <br />
 <br />
@@ -63,3 +59,5 @@ Deep learning GAN models: [Face generation and animation with Python](https://gi
 [twitter]: https://twitter.com/_silhouettte_
 [instagram]: https://www.instagram.com/_nikhilnair_/
 [linkedin]: https://www.linkedin.com/in/nikhilnair31/
+[playstore]: https://play.google.com/store/apps/dev?id=5678454527601486137
+[itch.io]: https://silhouttte.itch.io/
