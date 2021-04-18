@@ -1,17 +1,14 @@
+
 Hey, I'm Nikhil <br/>
 <sub>ML, Game Dev, Designer</sub>
 ---
 
-### Who Am I?
+## Who Am I?
 
 I'm a Software Engineer and Student.
 Learning about everything software and hardware engineering through self-driven projects and endless research.
 
-### Portfolio
-
-Find my portfolio and more on my [website](https://silhub.web.app/).
-
-### What I've Built
+## What I've Built
 
 [ML Text Scraper](https://ml-text-scraper.herokuapp.com/)
 The website uses an ML model with Selenium to scrape text off of article sites.
@@ -22,6 +19,8 @@ This a tasks and reminders app that uses a user's phone usage data to forecast t
 [Mine Safety PWA](https://play.google.com/store/apps/details?id=com.Sil.minepwa1)
 A PWA that can be used to check safety levels using threshold levels for gas concentrations, noise levels and gas ratios for spontaneous combustion.
 Also saves the data on Firebase for viewing of historical data.
+
+Find more on my [website](https://silhub.web.app/).
 
 ### Socials
 ---
