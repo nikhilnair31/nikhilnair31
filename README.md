@@ -1,5 +1,5 @@
 
-<h1>Hey, I'm Nikhil<h1/><br/>
+# Hey, I'm Nikhil
 
 ## Who Am I?
 
