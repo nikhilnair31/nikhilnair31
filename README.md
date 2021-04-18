@@ -1,6 +1,5 @@
 
 <h1>Hey, I'm Nikhil<h1/><br/>
-<h3>ML, Game Dev, Designer</h3>
 
 ## Who Am I?
 
