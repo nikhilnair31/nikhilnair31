@@ -1,5 +1,5 @@
-Nikhil Nair <div align = 'right'>![](https://komarev.com/ghpvc/?username=nikhilnair31&color=red)</div>
-<br/>
+Hi, I'm Nikhil <br/>
+(url)<div align = 'right'>![](https://komarev.com/ghpvc/?username=nikhilnair31&color=red)</div>
 <sub>Software Engineer</sub>
 ---
 
@@ -38,6 +38,10 @@ Also saves the data on Firebase for viewing of historical data.
 
 ---
 <img align="left" alt="Nikhil Nair Github Stats" src="https://github-readme-stats.vercel.app/api?username=nikhilnair31&show_icons=true&hide_border=true&hide=stars,contribs&theme=radical" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilnair31)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilnair31)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
