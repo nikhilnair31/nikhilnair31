@@ -3,11 +3,13 @@ Hey, I'm Nikhil <br/>
 <sub>ML, Game Dev, Designer</sub>
 ---
 
+<br/>
 ## Who Am I?
 
 I'm a Software Engineer and Student.
 Learning about everything software and hardware engineering through self-driven projects and endless research.
 
+<br/>
 ## What I've Built
 
 [ML Text Scraper](https://ml-text-scraper.herokuapp.com/)
@@ -22,8 +24,8 @@ Also saves the data on Firebase for viewing of historical data.
 
 Find more on my [website](https://silhub.web.app/).
 
-### Socials
----
+<br/>
+## Socials
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -32,10 +34,8 @@ Find more on my [website](https://silhub.web.app/).
 [<img align="left" alt="Google Play" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleplay.svg" />][playstore]
 [<img align="left" alt="itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/itch-dot-io.svg" />][itch.io]
 
-<br />
-
-### Stats
----
+<br/>
+## Stats
 
 <br />
 
@@ -44,8 +44,7 @@ Find more on my [website](https://silhub.web.app/).
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikhilnair31&layout=compact&theme=omni&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
-### Languages and Tools:
----
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
