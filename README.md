@@ -57,7 +57,7 @@ Find more on my [website](https://nikhil-nair.web.app/).
 
 <br />
 
-[website]: https://silhub.web.app/
+[website]: https://nikhil-nair.web.app/
 [twitter]: https://twitter.com/_silhouettte_
 [instagram]: https://www.instagram.com/_nikhilnair_/
 [gmail]: mailto:niknair31898@gmail.com
