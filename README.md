@@ -8,6 +8,12 @@ I've learnt everything about various fields within software like game developmen
 
 ## What I've Built
 
+[cryptoMusk](https://crypto-musk.web.app/)
+A website that overlays historical cryptocurrency prices with Elon Musk's tweets in realtime, for users to infer the degree of his influence on the market. Also used an AWS Lambda function to extract his tweets on an hourly schedule using Twitter's API.
+
+[brainFart](https://brainfart.web.app/)
+It's a social platform for sharing ideas for games/apps/startups. Allows users to upvote/downvote ideas by their utility. Also used an AWS Lambda function that hooks into OpenAI's GPT3 API on a schedule, to generate ideas based on data scraped from Reddit.
+
 [ML Text Scraper](https://ml-text-scraper.herokuapp.com/)
 The website uses an ML model with Selenium to scrape text off of article sites.
 
