@@ -11,7 +11,7 @@ I've learnt everything about various fields within software like game developmen
 [brainFart](https://brainfart.web.app/)
 It's a social platform for sharing ideas for games/apps/startups. Allows users to upvote/downvote ideas by their utility. Also used an AWS Lambda function that hooks into OpenAI's GPT3 API on a schedule, to generate ideas based on data scraped from Reddit.
 
-[cryptoMusk](https://crypto-musk.web.app/)
+[iselontweetingaboutcryptoagain](https://iselontweetingaboutcryptoagain.web.app/)
 A website that overlays historical cryptocurrency prices with Elon Musk's tweets in realtime, for users to infer the degree of his influence on the market. Also used an AWS Lambda function to extract his tweets on an hourly schedule using Twitter's API.
 
 [tasks.ai](https://play.google.com/store/apps/details?id=com.appnamenull.mlscheduler)
