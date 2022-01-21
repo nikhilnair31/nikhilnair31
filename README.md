@@ -36,7 +36,7 @@ Find more on my [website](https://nikhil-nair.web.app/).
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilnair31&hide=stars,prs,issues,contribs )
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilnair31 )
 
 <!-- [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikhilnair31&layout=compact&theme=omni&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
