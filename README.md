@@ -1,6 +1,13 @@
 ![Hi](hi2.png)
 # Hi, I'm Nikhil 👋
 
+[<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=appveyor&logoColor=white&color=teal">][website]
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">][twitter]
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">][instagram]
+[<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">][playstore]
+[<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white">][itch.io]
+
 ## Who Am I?
 
 I'm a Mining Engineer that picked up some coding skills over the course of my college life.
@@ -25,16 +32,6 @@ A PWA that can be used to check safety levels using threshold levels for gas con
 Also saves the data on Firebase for viewing of historical data.
 
 Find more on my [website](https://nikhil-nair.web.app/).
-<br/>
-
-## Socials
-
-[<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=appveyor&logoColor=white&color=teal">][website]
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">][twitter]
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">][instagram]
-[<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">][playstore]
-[<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white">][itch.io]
 <br/>
 
 ## Stats
