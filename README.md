@@ -15,7 +15,7 @@ I've learnt everything about various fields within software like game developmen
 
 ## What I've Built
 
-[DeSo](https://dry-resonance-3793.on.fleek.co/)
+[DeSo](https://deso31.web.app/)
 It's a decentralized social platform where users can post their thoughts and images and mint them into NFTs. Built using Gun JS for the decentralized database/authetication and Solidity for the NFT minting smart contracts. The smart contract was then deployed temporarily on the Rinkeby tesnet and eventually on the Polygon Mainnet.
 
 [brainFart](https://brainfart.web.app/)
