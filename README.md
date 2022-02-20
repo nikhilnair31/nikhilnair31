@@ -40,6 +40,7 @@ Find more on my [website](https://nikhil-nair.web.app/).
 ## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilnair31 )
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikhilnair31&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!-- [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikhilnair31&layout=compact&theme=omni&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
