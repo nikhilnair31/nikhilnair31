@@ -42,7 +42,7 @@ Find more on my [website](https://nikhil-nair.web.app/).
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilnair31&theme=graywhite&show_icons=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikhilnair31&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=javascriptL&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikhilnair31)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikhilnair31&layout=compact&theme=omni&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
