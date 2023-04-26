@@ -15,13 +15,13 @@ I've learnt everything about various fields within software like game developmen
 
 ## What I've Built
 
-[MIA](https://deso31.web.app/](https://github.com/nikhilnair31/MIA)
-MIA (Marvelously Incompetent Assistant) is an AI-powered robot that can help you with your day-to-day tasks. With its powerful natural language processing capabilities, MIA can understand your commands and provide you with personalized assistance. Uses OpenAI's Whisper and GPT API to transcribe and respond to conversations.
+[MIA - Marvelously Incompetent Assistant](https://github.com/nikhilnair31/MIA)
+An AI-powered robot that can help you with your day-to-day tasks. With its powerful natural language processing capabilities, MIA can understand your commands and provide you with personalized assistance. Uses OpenAI's Whisper and GPT API to transcribe and respond to conversations.
 
 [brainFart](https://brainfart.web.app/)
 It's a platform for sharing ideas for games/apps/startups. Allows users to upvote/downvote ideas by their utility. Also used an AWS Lambda function that hooks into OpenAI's GPT3 API on a schedule, to generate ideas based on data scraped from Reddit.
 
-[DeSo](https://deso31.web.app/)(defunct site)
+[DeSo](https://deso31.web.app/) _**(defunct site)**_
 It's a decentralized social platform where users can post their thoughts and images and mint them into NFTs. Built using Gun JS for the decentralized database/authetication and Solidity for the NFT minting smart contracts. The smart contract was then deployed temporarily on the Rinkeby tesnet and eventually on the Polygon Mainnet.
 
 [iselontweetingaboutcryptoagain](https://iselontweetingaboutcryptoagain.web.app/)
@@ -30,7 +30,7 @@ A website that overlays historical cryptocurrency prices with Elon Musk's tweets
 [tasks.ai](https://play.google.com/store/apps/details?id=com.appnamenull.mlscheduler)
 This a tasks and reminders app that uses a user's phone usage data to forecast the best time to remind them.
 
-[ML Text Scraper](https://ml-text-scraper.herokuapp.com/)(defunct site)
+[ML Text Scraper](https://ml-text-scraper.herokuapp.com/) _**(defunct site)**_
 The website uses an ML model with Selenium to scrape text off of article sites.
 
 [Mine Safety PWA](https://play.google.com/store/apps/details?id=com.Sil.minepwa1)
