@@ -11,8 +11,11 @@
 
 ## Who Am I?
 
-I'm a Mining Engineer that picked up some coding skills over the course of my college life.
-I've learnt everything about various fields within software like game development, machine learning, web development etc. through multiple self-driven projects and endless research.
+Hey there! I'm a data-nerd who turned a mining engineering background into a love story with data and code. In between tackling a Master's in Business Analytics, you'll find me neck-deep in big data, or translating complex numbers into user-friendly insights.
+
+Game development is my playground away from the data world. The fun part? It's all about bringing crazy cool ideas to life and designing epic virtual experiences. This awesome mash-up of tech skills and creativity is what I bring to shake things up in every project.
+
+Bottom line - I’m all about making numbers talk in a language anyone can understand. No geek speak, guaranteed. Up for a wild ride in the data universe? Hit me up!
 
 ## What I've Built
 
