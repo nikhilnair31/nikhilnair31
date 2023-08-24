@@ -11,11 +11,9 @@
 
 ## Who Am I?
 
-Hey there! I'm a data-nerd who turned a mining engineering background into a love story with data and code. In between tackling a Master's in Business Analytics, you'll find me neck-deep in big data, or translating complex numbers into user-friendly insights.
+Hey there! Just a former mining engineer turned data-nerd here. Got a Master's in Business Analytics (fancy way of saying I like numbers). When I'm not decoding data or predicting the future with algorithms, I chill in the game dev world, crafting digital awesomeness.
 
-Game development is my playground away from the data world. The fun part? It's all about bringing crazy cool ideas to life and designing epic virtual experiences. This awesome mash-up of tech skills and creativity is what I bring to shake things up in every project.
-
-Bottom line - I’m all about making numbers talk in a language anyone can understand. No geek speak, guaranteed. Up for a wild ride in the data universe? Hit me up!
+I make data less boring and a lot more relatable. Ready to make data an adventure rather than a chore? Let's go!
 
 ## What I've Built
 
