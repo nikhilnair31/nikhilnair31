@@ -17,6 +17,9 @@ I make data less boring and a lot more relatable. Ready to make data an adventur
 
 ## What I've Built
 
+[Corporate Conundrum: Hunt for the Secret Shaft](https://silhouettte.itch.io/corporate-conundrum-hunt-for-the-secret-shaft)
+Corporate Conundrum is a puzzle game powered by GPT that challenges players to use their social engineering skills to uncover the location of a secret shaft hidden within a corporate building.
+
 [MIA - Marvelously Incompetent Assistant](https://github.com/nikhilnair31/MIA)
 An AI-powered robot that can help you with your day-to-day tasks. With its powerful natural language processing capabilities, MIA can understand your commands and provide you with personalized assistance. Uses OpenAI's Whisper and GPT API to transcribe and respond to conversations.
 
