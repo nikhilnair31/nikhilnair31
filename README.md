@@ -17,14 +17,20 @@ I make data less boring and a lot more relatable. Ready to make data an adventur
 
 ## What I've Built
 
+[YouTube Shorts Generator](https://github.com/nikhilnair31/YouTube-Shorts-Generator)
+Designed a platform to create captivating YouTube Shorts by extracting posts from Reddit using the PRAW API, crafting titles and descriptions with GPT‐4, and generating thumbnails and visuals with Stability AI’s Stable Diffusion model.
+
+[Instagram Like Predictor](https://github.com/nikhilnair31/Insta-Like-Predictor)
+Created a tool to estimate likes on Instagram posts, utilizing data fetched via Instaloader and analyzed with the XGBoost model, offering users a glimpse into the potential impact of their content
+
 [Corporate Conundrum: Hunt for the Secret Shaft](https://silhouettte.itch.io/corporate-conundrum-hunt-for-the-secret-shaft)
 Corporate Conundrum is a puzzle game powered by GPT that challenges players to use their social engineering skills to uncover the location of a secret shaft hidden within a corporate building.
 
 [MIA - Marvelously Incompetent Assistant](https://github.com/nikhilnair31/MIA)
-An AI-powered robot that can help you with your day-to-day tasks. With its powerful natural language processing capabilities, MIA can understand your commands and provide you with personalized assistance. Uses OpenAI's Whisper and GPT API to transcribe and respond to conversations.
+An AI-powered robot that can help you with your day-to-day tasks. With its powerful natural language processing capabilities, MIA can understand your commands and provide you with personalized assistance. Uses OpenAI's Whisper and GPT-4 API to transcribe and respond to conversations.
 
 [brainFart](https://brainfart.web.app/)
-It's a platform for sharing ideas for games/apps/startups. Allows users to upvote/downvote ideas by their utility. Also used an AWS Lambda function that hooks into OpenAI's GPT3 API on a schedule, to generate ideas based on data scraped from Reddit.
+It's a platform for sharing ideas for games/apps/startups. Allows users to upvote/downvote ideas by their utility. Also used an AWS Lambda function that hooks into OpenAI's GPT-4 API on a schedule, to generate ideas based on data scraped from Reddit.
 
 [DeSo](https://github.com/nikhilnair31/DeSo) _**(defunct site)**_
 It's a decentralized social platform where users can post their thoughts and images and mint them into NFTs. Built using Gun JS for the decentralized database/authetication and Solidity for the NFT minting smart contracts. The smart contract was then deployed temporarily on the Rinkeby tesnet and eventually on the Polygon Mainnet.
@@ -34,13 +40,6 @@ A website that overlays historical cryptocurrency prices with Elon Musk's tweets
 
 [tasks.ai](https://play.google.com/store/apps/details?id=com.appnamenull.mlscheduler)
 This a tasks and reminders app that uses a user's phone usage data to forecast the best time to remind them.
-
-[ML Text Scraper](https://github.com/nikhilnair31/Text-Scraper) _**(defunct site)**_
-The website uses an ML model with Selenium to scrape text off of article sites.
-
-[Mine Safety PWA](https://play.google.com/store/apps/details?id=com.Sil.minepwa1)
-A PWA that can be used to check safety levels using threshold levels for gas concentrations, noise levels and gas ratios for spontaneous combustion.
-Also saves the data on Firebase for viewing of historical data.
 
 Find more on my [website](https://nikhil-nair.web.app/).
 <br/>
