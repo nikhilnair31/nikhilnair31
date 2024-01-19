@@ -27,19 +27,19 @@ Created a tool to estimate likes on Instagram posts, utilizing data fetched via 
 [Music Genre Classifier](https://github.com/nikhilnair31/SpectroTune---Genre-Classifier)
 Created a system with multiple approaches (conventional ML, CNNs, RNNs) to classifying music into 1 of 10 distinct genres using the GTZAN dataset
 
-[Corporate Conundrum: Hunt for the Secret Shaft](https://silhouettte.itch.io/corporate-conundrum-hunt-for-the-secret-shaft)
-Corporate Conundrum is a puzzle game powered by GPT that challenges players to use their social engineering skills to uncover the location of a secret shaft hidden within a corporate building.
-
 [brainFart](https://brainfart.web.app/)
 It's a platform for sharing ideas for games/apps/startups. Allows users to upvote/downvote ideas by their utility. Also used an AWS Lambda function that hooks into OpenAI's GPT-4 API on a schedule, to generate ideas based on data scraped from Reddit
 
-[DeSo](https://github.com/nikhilnair31/DeSo) _**(defunct site)**_
+[Corporate Conundrum: Hunt for the Secret Shaft](https://silhouettte.itch.io/corporate-conundrum-hunt-for-the-secret-shaft)
+Corporate Conundrum is a puzzle game powered by GPT that challenges players to use their social engineering skills to uncover the location of a secret shaft hidden within a corporate building
+
+[DeSo](https://github.com/nikhilnair31/DeSo) _**(defunct)**_
 It's a decentralized social platform where users can post their thoughts and images and mint them into NFTs. Built using Gun JS for the decentralized database/authetication and Solidity for the NFT minting smart contracts. The smart contract was then deployed temporarily on the Rinkeby tesnet and eventually on the Polygon Mainnet
 
-[iselontweetingaboutcryptoagain](https://iselontweetingaboutcryptoagain.web.app/)
+[iselontweetingaboutcryptoagain](https://iselontweetingaboutcryptoagain.web.app/) _**(defunct)**_
 A website that overlays historical cryptocurrency prices with Elon Musk's tweets in realtime, for users to infer the degree of his influence on the market. Also used an AWS Lambda function to extract his tweets on an hourly schedule using Twitter's API
 
-[tasks.ai](https://play.google.com/store/apps/details?id=com.appnamenull.mlscheduler)
+[tasks.ai](https://play.google.com/store/apps/details?id=com.appnamenull.mlscheduler) _**(defunct)**_
 This a tasks and reminders app that uses a user's phone usage data to forecast the best time to remind them
 
 Find more on my [website](https://nikhil-nair.web.app/).
