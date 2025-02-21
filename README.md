@@ -11,12 +11,9 @@
 
 ## Who Am I?
 
-I code (like a lot). Got an undergrad in Mining Engineering at NITK Surathkal, pivoted hard into analytics in healthcare consultancy, now persuign a Masters in Business Analytics at UT Austin. Really into LLMs and Genrative AI currently so trying to explore the space with various projects.
+I code a lot.
 
 ## What I've Built
-
-[MIA](https://github.com/nikhilnair31/MIA-App)
-MIA is an AI companion app designed to turn smartphones into memory assistants. It can capture, transcribe, and securely store the user's real-world conversations.
 
 [YouTube Shorts Generator](https://github.com/nikhilnair31/YouTube-Shorts-Generator)
 Designed a platform to create captivating YouTube Shorts by extracting posts from Reddit using the PRAW API, crafting titles and descriptions with GPT‐4, and generating thumbnails and visuals with Stability AI’s Stable Diffusion model
@@ -27,11 +24,14 @@ Created a tool to estimate likes on Instagram posts, utilizing data fetched via 
 [Music Genre Classifier](https://github.com/nikhilnair31/SpectroTune---Genre-Classifier)
 Created a system with multiple approaches (conventional ML, CNNs, RNNs) to classifying music into 1 of 10 distinct genres using the GTZAN dataset
 
-[brainFart](https://brainfart.web.app/)
-It's a platform for sharing ideas for games/apps/startups. Allows users to upvote/downvote ideas by their utility. Also used an AWS Lambda function that hooks into OpenAI's GPT-4 API on a schedule, to generate ideas based on data scraped from Reddit
-
-[Corporate Conundrum: Hunt for the Secret Shaft](https://silhouettte.itch.io/corporate-conundrum-hunt-for-the-secret-shaft)
+[Corporate Conundrum: Hunt for the Secret Shaft](https://silhouettte.itch.io/corporate-conundrum-hunt-for-the-secret-shaft) _**(defunct)**_
 Corporate Conundrum is a puzzle game powered by GPT that challenges players to use their social engineering skills to uncover the location of a secret shaft hidden within a corporate building
+
+[MIA](https://github.com/nikhilnair31/MIA-App) _**(defunct)**_
+MIA is an AI companion app designed to turn smartphones into memory assistants. It can capture, transcribe, and securely store the user's real-world conversations.
+
+[brainFart](https://brainfart.web.app/) _**(defunct)**_
+It's a platform for sharing ideas for games/apps/startups. Allows users to upvote/downvote ideas by their utility. Also used an AWS Lambda function that hooks into OpenAI's GPT-4 API on a schedule, to generate ideas based on data scraped from Reddit
 
 [DeSo](https://github.com/nikhilnair31/DeSo) _**(defunct)**_
 It's a decentralized social platform where users can post their thoughts and images and mint them into NFTs. Built using Gun JS for the decentralized database/authetication and Solidity for the NFT minting smart contracts. The smart contract was then deployed temporarily on the Rinkeby tesnet and eventually on the Polygon Mainnet
