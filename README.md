@@ -83,7 +83,7 @@ Find more on my [website](https://nikhil-nair.web.app/).
 
 <br />
 
-[website]: https://nikhil-nair.web.app/
+[website]: https://nikhilnair.online/
 [twitter]: https://twitter.com/_silhouettte_
 [instagram]: https://www.instagram.com/_nikhilnair_/
 [gmail]: mailto:niknair31898@gmail.com
