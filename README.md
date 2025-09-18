@@ -1,5 +1,5 @@
-![Hi](hi.png)
-# Hi, I'm Nikhil 👋
+![Hi](HI.png)
+# Socials
 
 [<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=appveyor&logoColor=white&color=teal">][website]
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">][twitter]
@@ -9,11 +9,7 @@
 [<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white">][itch.io]
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">][medium]
 
-## Who Am I?
-
-I code a lot.
-
-## Languages and Tools:
+# I Build With
 
 [<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">][website]
 [<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">][website]
