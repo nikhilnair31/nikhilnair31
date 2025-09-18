@@ -1,4 +1,4 @@
-![Hi](hi2.png)
+![Hi](hi.png)
 # Hi, I'm Nikhil 👋
 
 [<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=appveyor&logoColor=white&color=teal">][website]
