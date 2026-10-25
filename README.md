@@ -2,6 +2,7 @@
 # Socials
 
 [<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=appveyor&logoColor=white&color=teal">][website]
+[<img src="https://img.shields.io/badge/Blog-16130F?style=for-the-badge&logo=blogger&logoColor=white">][blog]
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">][twitter]
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">][instagram]
@@ -40,6 +41,7 @@
 <br />
 
 [website]: https://nikhilnair.online/
+[blog]: https://nikhilnair.online/log/
 [twitter]: https://twitter.com/_silhouettte_
 [instagram]: https://www.instagram.com/_nikhilnair_/
 [gmail]: mailto:niknair31898@gmail.com
